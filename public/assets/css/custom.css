@@ -1,0 +1,43 @@
+.btn-outline-black {
+    border: 1px solid black;
+}
+
+.btn-outline-black:hover {
+    background-color: black;
+    color: white;
+}
+
+.text-custom-purple {
+    color: #6454bc;
+}
+.btn-custom-orange {
+    background-color: #ff6d0a;
+    color: white;
+}
+
+.btn-custom-orange:hover {
+    background-color: white;
+    color: #ff6d0a;
+}
+
+.bg-color-orange {
+    background-color: #ff6d0a;
+}
+
+.btn-custom-grey {
+    background-color: #f0f0f0;
+    color: black;
+}
+
+.btn-custom-grey:hover {
+    background-color: black;
+    color: #f0f0f0;
+}
+
+.bg-color-grey {
+    background-color: #f4f4f4;
+}
+
+.text-custom-orange {
+    color: #ff6d0a;
+}
