@@ -1,13 +1,13 @@
-# Nama Proyek
+# Redesign Landing Page Qwords.com
 
-Deskripsi singkat mengenai proyek ini.
+Saya melakukan pembaruan terhadap halaman utama atau landing page dari QWords saat ini sebagai pemenuhan tugas final project sebagai salah satu syarat kelulusan Project Based Internship: Fullstack Developer Qwords x Rakamin Academy
 
 ## Prasyarat
 
 Pastikan Anda telah menginstal:
 
 -   [Composer](https://getcomposer.org/)
--   [PHP](https://www.php.net/) versi >= 7.x
+-   [PHP](https://www.php.net/)
 -   [Node.js](https://nodejs.org/) dan [npm](https://www.npmjs.com/)
 
 ## Instalasi
