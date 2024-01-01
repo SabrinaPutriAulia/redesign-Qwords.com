@@ -242,47 +242,103 @@
             <div class="col-sm-6 mb-3 mb-sm-0">
                 <div class="card rounded-5 border-0 p-4">
                     <div class="px-4">
-                        <p class="fs-2 fw-bold my-3">Optimasi Performa Website</p>
-                        <p class="card-text my-3">Optimalkan performa website bisnis Anda dengan berbagai layanan
+                        <p class="fs-2 fw-bold">Optimasi Performa Website</p>
+                        <p class="card-text my-1">Optimalkan performa website bisnis Anda dengan berbagai layanan
                             berkualitas dari Qwords</p>
 
                     </div>
                     <div class="card-body">
                         <div class="row row-cols-1 row-cols-md-2 g-4">
                             <div class="col">
-                                <div class="card">
-                                    <img src="..." class="card-img-top" alt="...">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text">This is a longer card with supporting text below as a
-                                            natural lead-in to additional content. This content is a little bit longer.
+                                <div class="card p-3 rounded-card">
+                                    <div class="card-heading d-flex align-items-center mb-3">
+                                        <div class="icon-wrapper me-2">
+                                            <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
+                                                src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/ssl.webp"
+                                                loading="lazy"
+                                                data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/ssl.webp"
+                                                alt="ssl.webp" width="30px" height="30px" data-ll-status="loaded"
+                                                class="entered litespeed-loaded"><noscript><img loading="lazy"
+                                                    src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/ssl.webp"
+                                                    alt="ssl.webp" width="30px" height="30px" /></noscript>
+                                        </div>
+                                        <h3 class="mb-0 fs-5 fw-bold">SSL</h3>
+                                    </div>
+                                    <div>
+                                        <p>
+                                            Jadikan website Anda lebih terpercaya dan disukai oleh search
+                                            engine dengan menggunakan SSL Certificate
+                                        </p>
+                                    </div>
+                                    <div>
+                                        <p class="mb-2">Mulai dari</p>
+                                        <p class="fs-4 text-custom-orange fw-bold pricehome">
+                                            Rp. 112.000<span class="fs-6 text-dark fw-light"> / tahun</span>
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card">
-                                    <img src="..." class="card-img-top" alt="...">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text">This is a longer card with supporting text below as a
-                                            natural lead-in to additional content. This content is a little bit longer.
+                                <div class="card p-3 rounded-card">
+                                    <div class="card-heading d-flex align-items-center mb-3">
+                                        <div class="icon-wrapper me-2">
+                                            <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
+                                                src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/ssl.webp"
+                                                loading="lazy"
+                                                data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/ssl.webp"
+                                                alt="ssl.webp" width="30px" height="30px" data-ll-status="loaded"
+                                                class="entered litespeed-loaded"><noscript><img loading="lazy"
+                                                    src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/ssl.webp"
+                                                    alt="ssl.webp" width="30px" height="30px" /></noscript>
+                                        </div>
+                                        <h3 class="mb-0 fs-5 fw-bold">Dedicated Server</h3>
+                                    </div>
+                                    <div>
+                                        <p>
+                                            Nikmati kelola Dedicated Server sendiri dengan akses remote dari seluruh
+                                            dunia tanpa batas
+                                        </p>
+                                    </div>
+                                    <div>
+                                        <p class="mb-2">Mulai dari</p>
+                                        <p class="fs-4 text-custom-orange fw-bold pricehome">
+                                            Rp. 499.000<span class="fs-6 text-dark fw-light"> / bulan</span>
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card">
-                                    <img src="..." class="card-img-top" alt="...">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text">This is a longer card with supporting text below as a
-                                            natural lead-in to additional content.</p>
+                                <div class="card p-3 rounded-card">
+                                    <div class="card-heading d-flex align-items-center mb-3">
+                                        <div class="icon-wrapper me-2">
+                                            <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
+                                                src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/ssl.webp"
+                                                loading="lazy"
+                                                data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/ssl.webp"
+                                                alt="ssl.webp" width="30px" height="30px" data-ll-status="loaded"
+                                                class="entered litespeed-loaded"><noscript><img loading="lazy"
+                                                    src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/ssl.webp"
+                                                    alt="ssl.webp" width="30px" height="30px" /></noscript>
+                                        </div>
+                                        <h3 class="mb-0 fs-5 fw-bold">Colocation Server</h3>
+                                    </div>
+                                    <div>
+                                        <p>
+                                            Akses cepat dari seluruh dunia dengan fasilitas 24x7 full monitoring dengan
+                                            cooling system terbaik serta fire extinguisher
+                                        </p>
+                                    </div>
+                                    <div>
+                                        <p class="mb-2">Mulai dari</p>
+                                        <p class="fs-4 text-custom-orange fw-bold pricehome">
+                                            Rp. 500.000<span class="fs-6 text-dark fw-light"> / bulan</span>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
+
                             <div class="col d-flex justify-content-center align-items-center">
-                                <button class="btn rounded-pill py-2 px-4 fw-bold btn-custom-grey my-3">Learn
+                                <button class="btn py-2 px-4 fw-bold btn-custom-grey my-3">Learn
                                     more</button>
                             </div>
                         </div>
@@ -290,39 +346,56 @@
                 </div>
             </div>
             <div class="col-sm-6">
-                <div class="card rounded-5 border-0 p-4">
-                    <div class="px-4">
-                        <p class="fs-2 fw-bold my-3">Solusi Paket Hosting Terbaik</p>
-                        <p class="card-text my-3">Kami menawarkan solusi paket hosting terbaik untuk segala kebutuhan
-                            website dan sistem Anda.</p>
+                <div class="card rounded-5 border-0">
+                    <div class="pt-4 px-4 pb-2">
+                        <div class="px-4">
+                            <p class="fs-2 fw-bold">Solusi Paket Hosting Terbaik</p>
+                            <p class="card-text">Kami menawarkan solusi paket hosting terbaik untuk segala kebutuhan
+                                website dan sistem Anda.
+                        </div>
                     </div>
-                    <div class="card-body">
-                        <div class="card mb-3">
-                            <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">This is a wider card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.</p>
-                                </p>
+                    <div class="card-body px-4">
+                        <div class="px-4">
+                            <div class="card mb-3 bg-color-purple">
+                                <div class="card-body">
+                                    <h5 class="card-title fw-bold ">Perusahaan</h5>
+                                    <p class="card-text">Wujudkan website perusahaan profesional dan berkelas dengan
+                                        dukungan web hosting terbaik dan fitur keamanan ekstra</p>
+                                    </p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="card mb-3">
-                            <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">This is a wider card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.</p>
-                                </p>
+                            <div class="card mb-3 bg-color-purple">
+                                <div class="card-body">
+                                    <h5 class="card-title fw-bold">UMKM dan Toko Online</h5>
+                                    <p class="card-text">Memberikan hosting terbaik untuk mendukung kebutuhan website
+                                        pemasaran barang/jasa secara online.</p>
+                                    </p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">This is a wider card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.</p>
-                                </p>
+                            <div class="card mb-3 bg-color-purple">
+                                <div class="card-body">
+                                    <h5 class="card-title fw-bold">Organisasi dan Komunitas</h5>
+                                    <p class="card-text">Bikin website organisasi atau komunitas Anda dengan paket
+                                        hosting
+                                        unggulan yang ramah kantong.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card mb-4 bg-color-purple">
+                                <div class="card-body">
+                                    <h5 class="card-title fw-bold">Sekolah</h5>
+                                    <p class="card-text">Infrastruktur web hosting terbaik untuk menunjang kegiatan
+                                        e-learning. Didukung platform MOODLE khusus pembelajaran daring</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col d-flex justify-content-end align-items-center mb-3">
+                                <a href="" class="see-all">Lihat lainnya <i class='bx bx-right-arrow-alt'></i></a></p>
                             </div>
                         </div>
 
                     </div>
+
                 </div>
             </div>
         </div>

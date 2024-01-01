@@ -31,8 +31,8 @@
         @include('components/base/header')
         @include('components/parts/banner')
         @include('components/parts/service')
-        @include('components/parts/domain-checker')
-        @include('components/parts/package')
+        @include('components/parts/review')
+        @include('components/parts/question')
         @include('components/parts/contact')
         @include('components/base/footer')
     </div>

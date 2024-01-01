@@ -24,6 +24,10 @@
     background-color: #ff6d0a;
 }
 
+.bg-color-orange-1 {
+    background-color: #feeddd;
+}
+
 .btn-custom-grey {
     background-color: #f0f0f0;
     color: black;
@@ -40,4 +44,51 @@
 
 .text-custom-orange {
     color: #ff6d0a;
+}
+
+.bg-color-purple {
+    background-color: #6454bc;
+    color: white;
+    border: none;
+}
+.bg-color-purple-1 {
+    background-color: #d8d1ff;
+}
+
+.see-all {
+    text-decoration: none;
+    color: #6454bc;
+    font-weight: bold;
+}
+
+.main-footer {
+    padding: 5rem 1rem 1rem;
+    background: #13151b;
+    min-height: 953px;
+    color: #fff;
+}
+
+.main-footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.bg-question {
+    background-image: url(https://img.freepik.com/free-photo/medium-shot-people-working-with-computer_23-2149313755.jpg?w=1060&t=st=1704104050~exp=1704104650~hmac=0a30df49efcedbab9878aaf74eaffba9f7fb797b249ddfd745c8f1b636ceb69c);
+    background-position: center;
+    background-size: cover;
+}
+
+.line {
+    border: 2px solid #000000;
+}
+
+.img-banner {
+    width: 100%;
+}
+
+.bg-contact {
+    background-image: url(https://img.freepik.com/free-vector/abstract-fluid-banner-with-geometric-twist-modern-design_1017-43041.jpg?size=626&ext=jpg&ga=GA1.1.802591149.1694696503&semt=ais);
+    background-position: bottom;
+    background-size: cover;
 }
